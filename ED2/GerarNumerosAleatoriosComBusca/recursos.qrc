@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imgs/foto.jpg</file>
+        <file>imgs/puc-goias-logo-06AD67F0EA7-seeklogo.com.png</file>
+    </qresource>
+</RCC>
